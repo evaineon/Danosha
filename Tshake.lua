@@ -4199,7 +4199,7 @@ end
   🔐┇الميديا
   🔐┇التكرار
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshAkETEAM]]
+  📡┇Ch ~⪼ @SyniOretaCh]]
   send(msg.chat_id_, msg.id_, 1, (h1 or text), 1, 'md')
      end
   if (text and text == 'تغير امر م2') and tonumber(msg.sender_user_id_) == tonumber(sudo_add) then
@@ -4269,7 +4269,7 @@ end
   📮┇القوانين
   📮┇الصوره
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshAkETEAM	
+  📡┇Ch ~⪼ @SyniOretaCh	
 							]]
   send(msg.chat_id_, msg.id_, 1, (h2 or text), 1, 'md')
      end
@@ -4447,9 +4447,9 @@ end
     
   🌐┇<strong>TshAkE TEAM</strong>
     
-  🦁┇<a href="https://telegram.me/TshAkETEAM">قناه السورس</a>
-  📜┇<a href="https://telegram.me/TshAkE_DEV">قناه شروحات سورس</a>
-  📁┇<a href="https://telegram.me/TshAkEfiles">قناه ملفات السورس</a>
+  🦁┇<a href="https://telegram.me/SyniOretaCh">قناه السورس</a>
+  📜┇<a href="https://telegram.me/SyniOretaCh">قناه شروحات سورس</a>
+  📁┇<a href="https://telegram.me/SyniOretaCh">قناه ملفات السورس</a>
     
   🔎┇<a href="https://t.me/TshAkE_DEV/227">طريقه التنصيب</a>
     
